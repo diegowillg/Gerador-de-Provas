@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Configuracao especifica do contexto Tomcat desta aplicacao. -->
+<Context useHttpOnly="true">
+    <!-- Mantem as JSPs em UTF-8 para preservar acentos na renderizacao. -->
+    <Parameter name="jakarta.servlet.jsp.default.charset" value="UTF-8" override="false"/>
+</Context>
