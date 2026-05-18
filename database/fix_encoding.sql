@@ -1,4 +1,4 @@
--- Corrige dados com ??? (acentos em UTF-8 via UNHEX, sem depender do encoding do terminal)
+-- Corrige erros de acentuação (acentos em UTF-8 via UNHEX, sem depender do encoding do terminal)
 USE gerador_provas;
 
 SET NAMES utf8mb4;

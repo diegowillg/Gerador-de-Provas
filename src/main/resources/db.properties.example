@@ -1,4 +1,0 @@
-db.driver=com.mysql.cj.jdbc.Driver
-db.url=jdbc:mysql://localhost:3306/gerador_provas?useSSL=false&serverTimezone=America/Sao_Paulo&characterEncoding=UTF-8
-db.user=root
-db.password=SUA_SENHA_AQUI
